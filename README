@@ -3,6 +3,12 @@ dmenu - dynamic menu
 dmenu is an efficient dynamic menu for X.
 
 
+Patches
+------------
+https://tools.suckless.org/dmenu/patches/fuzzymatch/
+https://tools.suckless.org/dmenu/patches/mouse-support/
+
+
 Requirements
 ------------
 In order to build dmenu you need the Xlib header files.
